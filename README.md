@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPNaylor
 - 👀 I’m interested in Iot
 - 🌱 I’m currently learning to build IoT projects using Arduino and Raspberry PI 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking change my IT PM career to either manage or be a developer of an IoT project
 - 📫 How to reach me ...
 
 <!---
